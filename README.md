@@ -4,6 +4,12 @@ This repository is an unofficial version of the iPhone jailbreak project, create
 
 It is intended as a community-focused fork for experimentation, troubleshooting, and improvement of the jailbreak experience.
 
+## Compatibility
+
+This project is intended for iPhone 5S through iPhone 8 Plus running iOS 14.5.1 or lower.
+
+This project only supports macOS and certain Linux distributions.
+
 ## Purpose
 
 - Fix bugs and glitches
